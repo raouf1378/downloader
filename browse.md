@@ -23,3 +23,4 @@
 - [https___fapello_com_alice_delish_ (20260507_131111)](pages/fapello.com/https___fapello_com_alice_delish_/20260507_131111/index.md) — 39 media files
 - [https___fapello_com_alice_delish_1_ (20260507_131627)](pages/fapello.com/https___fapello_com_alice_delish_1_/20260507_131627/index.md) — 52 media files
 - [https___t_me_AniPlus (20260507_133217)](pages/t.me/https___t_me_AniPlus/20260507_133217/index.md) — 4 media files
+- [https___fapello_com_alice_delish_1_2_ (20260507_133534)](pages/fapello.com/https___fapello_com_alice_delish_1_2_/20260507_133534/index.md) — 35 media files
