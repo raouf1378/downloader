@@ -1,0 +1,10 @@
+//telegram.org/
+//telegram.org/css/bootstrap.min.css?3
+//telegram.org/css/font-roboto.css?1
+//telegram.org/css/telegram.css?249
+//telegram.org/dl?tme=34dcc0b353339932da_17419692383653112808
+//telegram.org/img/website_icon.svg?4
+//telegram.org/js/tgwallpaper.min.js?3
+/css/myriad.css
+/s/vpn_proxy66
+tg://resolve?domain=vpn_proxy66
