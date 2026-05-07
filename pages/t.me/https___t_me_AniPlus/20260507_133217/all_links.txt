@@ -1,0 +1,16 @@
+//telegram.org/
+//telegram.org/css/bootstrap.min.css?3
+//telegram.org/css/font-roboto.css?1
+//telegram.org/css/telegram.css?249
+//telegram.org/dl?tme=6b612af0462ebeaf11_10071989275572727085
+//telegram.org/img/apple-touch-icon.png
+//telegram.org/img/favicon-16x16.png
+//telegram.org/img/favicon-32x32.png
+//telegram.org/img/favicon.ico
+//telegram.org/img/website_icon.svg?4
+//telegram.org/js/tgwallpaper.min.js?3
+/css/myriad.css
+/s/AniPlus
+https://cdn4.telesco.pe/file/VpvN8MbWuelaRTKr6zgrfONWIkNDzS0ict9Bup-bsQjYUChUqUVVDzmNF8hPbpq97j05kCy1AbQvujg4zPsZJVE2HVmwE6INcITIP-wDUvHB7N-ccvXi9prR9ui_PMBxfX1VI4U_lmQ3M5VJUWr1NvlGXgHzE8YLd45e9_IwSAN_RCr6wvfIlnLQLRQKoo66EUr-noituFffQPEERlTyQuNJ61Q95PJJQKiKvWOFXLsV5l8-Jbn68tD5KsDsJUFO1_2oeIjD_CcTfom-LXcVgZx2Bm6N-Rrf4s_fBic7jxITeqPquzAaQH0POq0_fXPwFE4mOS2gAtkFE-MAs_CD8Q.jpg
+https://t.me/AniPlusMiniBot
+tg://resolve?domain=AniPlus

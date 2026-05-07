@@ -1,0 +1,11 @@
+//telegram.org/
+//telegram.org/css/bootstrap.min.css?3
+//telegram.org/css/font-roboto.css?1
+//telegram.org/css/telegram.css?249
+//telegram.org/dl?tme=6b612af0462ebeaf11_10071989275572727085
+//telegram.org/img/website_icon.svg?4
+//telegram.org/js/tgwallpaper.min.js?3
+/css/myriad.css
+/s/AniPlus
+https://t.me/AniPlusMiniBot
+tg://resolve?domain=AniPlus
