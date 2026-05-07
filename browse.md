@@ -36,3 +36,4 @@
 - [https___t_me_s_Data_Proxy (20260507_181428)](pages/t.me/https___t_me_s_Data_Proxy/20260507_181428/index.md) — 4 media files
 - [https___t_me_s_vpn_proxy66 (20260507_182729)](pages/t.me/https___t_me_s_vpn_proxy66/20260507_182729/index.md) — 4 media files
 - [https___t_me_s_mtpproxyirani (20260507_183114)](pages/t.me/https___t_me_s_mtpproxyirani/20260507_183114/index.md) — 4 media files
+- [https___t_me_s_ShadowProxy66 (20260507_183716)](pages/t.me/https___t_me_s_ShadowProxy66/20260507_183716/index.md) — 4 media files
